@@ -12,12 +12,8 @@ dotenv_1.default.config();
 // as if it were an environment variable
 const port = process.env.SERVER_PORT;
 const app = (0, express_1.default)();
-// app.set('view engine', 'ejs');
 // Configure routes
 (0, routes_1.routes)(app);
-// app.get( "/", ( req, res ) => {
-//     res.send( "Hello world!" );
-// } );
 // start the Express server
 app.listen(port, () => {
     // tslint:disable-next-line:no-console
