@@ -1,0 +1,47 @@
+export let items = [
+  {
+    id: 1,
+    fecha: "06-06-2022",
+    nombres: "Carlos Guerra Carrillo",
+    monto: 63.90,
+    pais: "Peru",
+    tipo: "type",
+    estado: 1
+  },
+  {
+    id: 2,
+    fecha: "16-06-2022",
+    nombres: "Daniel Cuevas Torres",
+    monto: 133.92,
+    pais: "Chile",
+    tipo: "type",
+    estado: 1
+  },
+  {
+    id: 3,
+    fecha: "22-06-2022",
+    nombres: "Elva Becerra Carrion",
+    monto: 4455.70,
+    pais: "Colombia",
+    tipo: "type",
+    estado: 2
+  },
+  {
+    id: 4,
+    fecha: "23-06-2022",
+    nombres: "Betsabe Paredes Serrudo",
+    monto: 1223.12,
+    pais: "Peru",
+    tipo: "type",
+    estado: 1
+  },
+  {
+    id: 5,
+    fecha: "25-06-2022",
+    nombres: "Cynthia Caceres Montes",
+    monto: 3432.22,
+    pais: "Ecuador",
+    tipo: "type",
+    estado: 2
+  },
+]
