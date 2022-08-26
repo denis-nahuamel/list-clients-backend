@@ -6,7 +6,7 @@
     "monto": 63.90,
     "pais": "Peru",
     "tipo": "type",
-    "estado": 1
+    "estado": 0
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "monto": 133.92,
     "pais": "Chile",
     "tipo": "type",
-    "estado": 1
+    "estado": 0
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "monto": 4455.70,
     "pais": "Colombia",
     "tipo": "type",
-    "estado": 2
+    "estado": 1
   },
   {
     "id": 4,
@@ -42,6 +42,6 @@
     "monto": 3432.22,
     "pais": "Ecuador",
     "tipo": "type",
-    "estado": 2
+    "estado": 0
   }
 ]

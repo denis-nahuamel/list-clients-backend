@@ -8,6 +8,6 @@ export interface IClient {
     estado:EEstado;
 }
 enum EEstado {
-    "ACTIVO",
-    "INACTIVO"
+    "INACTIVO",
+    "ACTIVO"
 }
